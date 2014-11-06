@@ -1,1 +1,19 @@
 This file contains the list of sort algorithms in this directory.
+
+
+Selection Sort
+Bubble sort
+Insertion Sort
+Binary Insertion Sort
+Quick sort
+Merge sort
+Heap sort
+Cycle sort
+Radix sort (LSD)
+Radix sort (MSD)
+std::sort (gcc)
+std::stable_sort (gcc)
+Shell sort
+Cocktail shaker sort
+Gnome sort
+Bitonic sort
