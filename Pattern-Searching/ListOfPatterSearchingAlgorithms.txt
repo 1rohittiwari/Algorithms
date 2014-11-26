@@ -1,3 +1,6 @@
 
 
 Naive Pattern Searching
+KMP Algorithm
+Rabin-Karp Algorithm
+Finite Automata

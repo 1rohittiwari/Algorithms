@@ -23,15 +23,12 @@ int main(){
         
         
         
-        //        CODE FOR DEBUGGING :
-        //        cout<<text<<endl;
-        //        for(int a=0; a<=i; a++){
-        //            cout<<" ";
-        //        }
-        //        cout<<pattern<<endl;
-        
-        
-        
+               //CODE FOR DEBUGGING :
+               // cout<<text<<endl;
+               // for(int a=0; a<=i; a++){
+               //     cout<<" ";
+               // }
+               // cout<<pattern<<endl;
         
         int j=0;
         
