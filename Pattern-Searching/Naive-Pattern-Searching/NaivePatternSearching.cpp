@@ -16,20 +16,9 @@ int main(){
     while(pattern[lpattern]!='\0'){
         lpattern++;
     }
-    
-    
+
     // Algo implementation using for loops
-    for(int i=0; i<(ltext - lpattern); i++){
-        
-        
-        
-               //CODE FOR DEBUGGING :
-               // cout<<text<<endl;
-               // for(int a=0; a<=i; a++){
-               //     cout<<" ";
-               // }
-               // cout<<pattern<<endl;
-        
+    for(int i=0; i<(ltext - lpattern); i++){        
         int j=0;
         
         for(j=0; j<lpattern; j++){
@@ -41,6 +30,13 @@ int main(){
         if(j==lpattern){
             cout<<"Pattern is at "<<(i)<<endl;
         }
+
+        //CODE FOR DEBUGGING :
+        // cout<<text<<endl;
+        // for(int a=0; a<=i; a++){
+        //   cout<<" ";
+        // }
+        // cout<<pattern<<endl;
     }
     
     
